@@ -1,3 +1,19 @@
+# Tic-Tac-Toe Game
+
+`Tic-Tac-Toe` is a simple web game 
+
+## How to run this project locally ?
+
+```
+npm init
+```
+
+Install react
+
+```
+npm i react
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
