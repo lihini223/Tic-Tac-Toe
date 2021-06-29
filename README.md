@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-`Tic-Tac-Toe` is a simple web game 
+`Tic-Tac-Toe` is a simple react based web game 
 
 ## How to run this project locally ?
 
